@@ -1,1 +1,0 @@
-"""Learning Hub application package."""
